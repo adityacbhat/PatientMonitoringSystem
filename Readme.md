@@ -1,6 +1,6 @@
 **Introduction**
 
-his repository presents a patient monitoring system utilizing an LSTM model. The system aims to automate patient activity tracking, alerting concerned authorities during emergencies, potentially providing cost-effective surveillance compared to human monitoring. By detecting abnormal behaviors, such as collapse, heart attack, or seizures, this system seeks to mitigate complications or fatalities in rehab centers.
+This repository presents a patient monitoring system utilizing an LSTM model. The system aims to automate patient activity tracking, alerting concerned authorities during emergencies, and potentially providing cost-effective surveillance compared to human monitoring. By detecting abnormal behaviors, such as collapse, heart attack, or seizures, this system seeks to mitigate complications or fatalities in rehab centers.
 
 **Approach**
 ![Features Used](approach_.jpg)
